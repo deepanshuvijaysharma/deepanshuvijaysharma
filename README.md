@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web or Mobile Devlopment Project
 - 📫 How to reach me ... by email deepanshuvijaysharma@gmail.com
-- 😄 Pronouns: ... he/hum
-- ⚡ Fun fact: ... Code is tough but important to grow and learning
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... Code is tough but important for grow and learning
 
 <!---
 deepanshuvijaysharma/deepanshuvijaysharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
